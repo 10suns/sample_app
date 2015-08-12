@@ -9,4 +9,6 @@ class ActiveSupport::TestCase
   fixtures :all
 
   # Add more helper methods to be used by all tests here...
+  # Including the Application helper in tests.
+  include ApplicationHelper
 end
