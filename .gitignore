@@ -21,3 +21,6 @@
 
 # Ignore Netbean files
 /nbproject/*
+
+# Ignore uploaded test images.
+/public/uploads
