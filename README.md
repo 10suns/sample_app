@@ -7,3 +7,8 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 
 Need installed
 - imagemagick
+
+Useful commands
+- clear data in database and populate again and again
+$ bundle exec rake db:migrate:reset
+$ bundle exec rake db:seed
